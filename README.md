@@ -23,14 +23,3 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourGitHubUsername)
 
-<hr>
-
-<h2 style="color:silver;"><u>My  tools‍💫</u></h2>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,py,wasm)](https://skillicons.dev)
-<hr>
-
-<!-- ![ME](https://raw.githubusercontent.com/tah-Guylian/tah-Guylian/main/providence-animal-hospital-charlotte-are-rabbits-rodents-blog.jpeg)-->
-- test (www.google.com)
-
-
