@@ -5,7 +5,7 @@
 <h2 style="color:red;"><u>Who am I?🤔 </u></h2>
 <h3 align="center", style="color:black;"> My name is <b>Phalat Lorratthanan</b></h3>
 
-<h4 align="center">(Tah is my nice name 🫡)</h4>
+<h4 align="center">(Tah is my nick name 🫡)</h4>
 
 <p align="center">
 <img src="https://github.com/tah-Guylian/tah-Guylian/blob/main/S__37347435.jpg?raw=true"  align="center"   height="500" />
