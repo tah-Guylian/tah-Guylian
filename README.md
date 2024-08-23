@@ -2,26 +2,26 @@
 
 <hr>
 
-<h3 style="color:Blue;"><u>Who am I?🤔 </u></h3>
+<h2 style="color:Blue;"><u>Who am I?🤔 </u></h2>
 <p align="center", style="color:Pink;"> My name is <b>Phalat Lorratthanan</b></p>
 
 <p align="center">(Tah is my nice name 🫡)</p>
  <hr>
 
-<image className="" src="https://github-readme-stats.vercel.app/api?username=MyGitHubUsername&show_icons=true"></image>
+![ME](https://github-readme-stats.vercel.app/api?username=MyGitHubUsername&show_icons=true")
 <!-- ![License](https://img.shields.io/github/license/yourGitHubUsername/yourRepoName)
 ![License](https://img.shields.io/github/license/yourGitHubUsername/yourRepoName) -->
 
 <hr>
-<h3 style="color:Gold;"><u>My trophy😵‍💫</u></h3>
+<h2 style="color:Gold;"><u>My trophy😵‍💫</u></h2>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourGitHubUsername)
 
 <hr>
 
-<h3 style="color:silver;"><u>My  tools‍💫</u></h3>
+<h2 style="color:silver;"><u>My  tools‍💫</u></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,py,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,java,py,fortran)](https://skillicons.dev)
 
 <hr>
 
