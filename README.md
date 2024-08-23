@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Headers 1 
+## H2
+### H3
+#### H4
+##### H5
+
+# Emphasis
+*Italic*
+**Bold**
+**_Combined Bold & Italic_**
+~~Strikethrough~~
+
+# List
+## Unordered
+- item1
+- item2
+   - Sub item 2.1
+ 
+# code block
+```cpp
+#include<iostream>
+```
+
+> Blockquote
+
+# tables
+
+#Horizontal Rule
+---
+
+# Line break
+line 1
+
+line 2 (เว้นสองบรรทัด)
+      
