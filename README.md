@@ -1,52 +1,20 @@
-## Hi there 👋
+# Welcome 
 
-<!--
-**tah-Guylian/tah-Guylian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+My name is **Phalat Lorratthanan** 
+(**_Tah_** is my nice name :smiley:)
 
-Here are some ideas to get you started:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MyGitHubUsername&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![License](https://img.shields.io/github/license/yourGitHubUsername/yourRepoName)
 
-# Headers 1 
-## H2
-### H3
-#### H4
-##### H5
+![trophy](https://github-profile-trophy.vercel.app/?username=yourGitHubUsername)
 
-# Emphasis
-*Italic*
-**Bold**
-**_Combined Bold & Italic_**
-~~Strikethrough~~
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,py,wasm)](https://skillicons.dev)
 
-# List
-## Unordered
-- item1
-- item2
-   - Sub item 2.1
- 
-# code block
-```cpp
-#include<iostream>
-```
+![ME](https://raw.githubusercontent.com/tah-Guylian/tah-Guylian/main/providence-animal-hospital-charlotte-are-rabbits-rodents-blog.jpeg)
+![ME](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg)
+- test (www.google.com)
 
-> Blockquote
 
-# tables
 
-#Horizontal Rule
----
-
-# Line break
-line 1
-
-line 2 (เว้นสองบรรทัด)
-      
