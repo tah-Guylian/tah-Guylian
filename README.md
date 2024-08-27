@@ -1,4 +1,4 @@
-<h1 align="center" style="color:green;"><u><strong?>```Welcome```</strong></u></h1>
+<h1 align="center" style="color:green;"><u><strong?>###Welcome###</strong></u></h1>
 
 <hr>
 
@@ -8,7 +8,7 @@
 <h4 align="center">(Tah is my nick name 🫡)</h4>
 
 <p align="center">
-<!-- <img src="https://github.com/tah-Guylian/tah-Guylian/blob/main/S__37347435.jpg?raw=true"  align="center"   height="500" /> -->
+<img src="https://github.com/tah-Guylian/tah-Guylian/blob/main/S__37347435.jpg?raw=true"  align="center"   height="500" />
 </p>
 
 
@@ -31,24 +31,3 @@
 <h2 style="color:orange;"><u>My tools‍💫</u></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,py,fortran)](https://skillicons.dev)
-
-<h3><i>C++ </i>: </h3>
-
-```c++
-#include <bits/stdc++.h>
-using namespace std;
-
-int main(){
-    // Output
-    cout << "Hello C++" << endl;
-    return 0;
-}
-```
-<h3><i>Fortran </i>: </h3>
-
-```Fortran
-    program hello
-    ! Output
-    print *, 'Hello, World!'
-    end program hello
-```
