@@ -8,8 +8,8 @@
 <h4 align="center">(Tah is my nick name 🫡)</h4>
 
 <p align="center">
-<img src="https://github.com/tah-Guylian/tah-Guylian/blob/main/S__37347435.jpg?raw=true"  align="center"   height="500" />
-</p>
+<!-- <img src="https://github.com/tah-Guylian/tah-Guylian/blob/main/S__37347435.jpg?raw=true"  align="center"   height="500" />
+</p> -->
 
 
  <hr>
